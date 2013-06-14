@@ -1,4 +1,4 @@
 funhawaii
 =========
 
-html for fun hawaii
+This is the easy tour creator for fun hawaii
